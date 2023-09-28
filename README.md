@@ -20,8 +20,8 @@ For driver he see all requests and choose what he want and see the tickets made 
 
 | Name | Responsible for 
 | :----: | :-----------------------------------------------:
-| **Shahd Elsayed** | Login & Admin                      
-| **Esraa Ahmed** | Register & Admin
+| **Shahd Elsayed** | Register & Admin                      
+| **Esraa Ahmed** | Login & Admin
 | **Toqa Osama** | Request
 | **Habiba Bakr** | Request & Support ticket
 | **Habiba Mohammed** | Request & Support ticket
