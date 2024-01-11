@@ -1,12 +1,9 @@
 # Mini Uber
 
 ## Project Description
-*website for passengers and drivers , if passenger can ask for a ride request with specific vechile , by adding 
-the location , destination , pay type , visa number if required and ride type . 
-he can accept or cancel the request  
-He can make a support ticket for the driver who annoy him . 
-
-For driver he see all requests and choose what he want and see the tickets made for him *
+System helps passengers to request a drivers , passenger can ask for a ride request with specific vechile , by adding 
+the location , destination , pay type , visa number if required and ride type , and also can accept or cancel the request and make a support ticket for the driver who annoied him . 
+Driver can see all requests and choose what he want and see the tickets made for him.
 
 
 ## Development Tools 
